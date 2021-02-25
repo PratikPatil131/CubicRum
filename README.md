@@ -14,7 +14,7 @@ This chapter focuses on introduction of Simulation necessity, objectives of the 
   1.
 #### Introduction
 
-The proposed system is computerapplication that allows various users to play this game. This project is specially developed for people in work sector, students and also for other people. These days more peoples are having mental health issues like stress, social problems etc. Most victims of stress are found in job sector, where there are factors like workload, job security. Here primary goal is to make a game that will lower the stress of person.
+The proposed system is computer application that allows various users to play this game. This project is specially developed for people in work sector, students and also for other people. These days more peoples are having mental health issues like stress, social problems etc. Most victims of stress are found in job sector, where there are factors like workload, job security. Here primary goal is to make a game that will lower the stress of person.
 
 In this project we include several levels of different difficulties. Here, user can play all levels serially. After one level gets completed, user can start the next level. Each level contains more complexity than the previous. For each level score board display the score. Best score is recorded for that level.
 
