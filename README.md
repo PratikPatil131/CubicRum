@@ -164,11 +164,43 @@ As we provide the platform it can be run on it.
 # User
 
 
-![](RackMultipart20210220-4-19cej1b_html_5de311fe14dd8ce4.gif) ![](RackMultipart20210220-4-19cej1b_html_91eb0fdbe679dca7.gif)
+
+ 
+  
+  
+
+
+   
+    
+    
+        User
+
+
+    
+
+    
+   
+  
+
+  
+ 
 
 Starts game
 
 ## Render Game
+
+
+
+ 
+  
+ 
+ 
+  
+  
+ 
+
+
+
 
 
 Collision occurs or cube goes out of bounds
