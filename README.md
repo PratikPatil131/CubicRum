@@ -129,7 +129,8 @@ This chapter describes the design of the basic architecture of the project work,
 
 3.1 System Architecture
 
-![](RackMultipart20210220-4-19cej1b_html_a4214e9418997b4e.png)
+![](![image](https://user-images.githubusercontent.com/48413868/114300246-df9ca600-9adc-11eb-80a3-c7d3f00adb5b.png)
+)
 
 Figure 3.1: System Architecture
 
@@ -263,7 +264,8 @@ This chapter describes the experimental setup along with the details of the inst
 
 4.3.1 Welcome Page
 
-![](RackMultipart20210220-4-19cej1b_html_89ff809705076c8.png)
+![](![image](https://user-images.githubusercontent.com/48413868/114300271-0bb82700-9add-11eb-834e-9d15803ea512.png)
+)
 
 Figure 4.3.1: Welcome Page
 
@@ -285,7 +287,8 @@ Rules for the game: -
 
 4.3.3 Game Credits
 
-![](RackMultipart20210220-4-19cej1b_html_fef11a19bad0f4ab.png)
+![](![image](https://user-images.githubusercontent.com/48413868/114300278-12df3500-9add-11eb-8804-042612880d5a.png)
+)
 
 Figure 4.3.3: Game Credits &amp; Quit
 
