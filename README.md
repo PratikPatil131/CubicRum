@@ -170,45 +170,8 @@ Figure 3.2.1: Data Flow Diagram
 
 4 Sequence Diagram
 
-Run the game
+![seq](https://user-images.githubusercontent.com/48413868/114300662-01972800-9adf-11eb-9eb3-de7ac138cdbc.png)
 
-![](RackMultipart20210220-4-19cej1b_html_45ae5286f6365ad2.gif) Open the game
-
-![](RackMultipart20210220-4-19cej1b_html_45ae5286f6365ad2.gif)
-
-Welcome page
-
-![](RackMultipart20210220-4-19cej1b_html_976a25a02f8261d1.gif)
-
-Welcome page
-
-![](RackMultipart20210220-4-19cej1b_html_de620e8dcec2d2ef.gif)
-
-![](RackMultipart20210220-4-19cej1b_html_45ae5286f6365ad2.gif) Starts the game
-
-Display level
-
-![](RackMultipart20210220-4-19cej1b_html_be1eb8779e306a6d.gif)
-
-Play level
-
-![](RackMultipart20210220-4-19cej1b_html_45ae5286f6365ad2.gif) Won a level
-
-![](RackMultipart20210220-4-19cej1b_html_45ae5286f6365ad2.gif)
-
-N ![](RackMultipart20210220-4-19cej1b_html_3f55290db120932f.gif) ext level in queue
-
-All level complete
-
-![](RackMultipart20210220-4-19cej1b_html_45ae5286f6365ad2.gif) ![](RackMultipart20210220-4-19cej1b_html_45ae5286f6365ad2.gif)All level complete
-
-![](RackMultipart20210220-4-19cej1b_html_3f55290db120932f.gif) Credits &amp; Quit
-
-Credits &amp; Quit
-
-![](RackMultipart20210220-4-19cej1b_html_ef568932b6bfa267.gif)
-
-![](RackMultipart20210220-4-19cej1b_html_45ae5286f6365ad2.gif) Quit
 
 Figure 3.4.1: Sequence Diagram
 
