@@ -165,7 +165,10 @@ As we provide the platform it can be run on it.
 
 Figure 3.2.1: Data Flow Diagram
 
-#### 3 ![](RackMultipart20210220-4-19cej1b_html_c3b3e17d2ea9d437.gif) .4 Sequence Diagram
+#### 3 ![dfd](https://user-images.githubusercontent.com/48413868/114300576-9f3e2780-9ade-11eb-8f44-069ed1099280.png)
+
+
+4 Sequence Diagram
 
 Run the game
 
