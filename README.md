@@ -265,8 +265,7 @@ This chapter describes the experimental setup along with the details of the inst
 
 4.3.1 Welcome Page
 
-![gam](![image](https://user-images.githubusercontent.com/48413868/114300271-0bb82700-9add-11eb-834e-9d15803ea512.png)
-)
+![image](https://user-images.githubusercontent.com/48413868/114300391-c0524880-9add-11eb-952e-02f508bb15c7.png)
 
 Figure 4.3.1: Welcome Page
 
@@ -274,7 +273,8 @@ As shown in figure 4.3.2, the user can see the welcome page at start. By clickin
 
     1. Game Running
 
-![image](RackMultipart20210220-4-19cej1b_html_48e55da185b3b26a.png)
+![image](https://user-images.githubusercontent.com/48413868/114300394-c5af9300-9add-11eb-814e-428408494c67.png)
+
 
 Figure 4.3.2: Game Running
 
@@ -288,8 +288,8 @@ Rules for the game: -
 
 4.3.3 Game Credits
 
-![image](![image](https://user-images.githubusercontent.com/48413868/114300278-12df3500-9add-11eb-8804-042612880d5a.png)
-)
+![image](https://user-images.githubusercontent.com/48413868/114300401-cba57400-9add-11eb-9c13-b4da2fa81e71.png)
+
 
 Figure 4.3.3: Game Credits &amp; Quit
 
