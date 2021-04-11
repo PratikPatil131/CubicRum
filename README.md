@@ -161,61 +161,7 @@ As we provide the platform it can be run on it.
 
 #### 3.3 Data Flow Diagram
 
-# User
 
-
-
- 
-  
-  
-
-
-   
-    
-    
-        User
-
-
-    
-
-    
-   
-  
-
-  
- 
-
-Starts game
-
-## Render Game
-
-
-
- 
-  
- 
- 
-  
-  
- 
-
-
-
-
-
-Collision occurs or cube goes out of bounds
-
-Credits
-
-![](RackMultipart20210220-4-19cej1b_html_6cb035254aa21832.gif) ![](RackMultipart20210220-4-19cej1b_html_5c3160951ab3b411.gif) ![](RackMultipart20210220-4-19cej1b_html_f01e1ee5cdfaacd8.gif)
-
-Restart current level
-
-All level complete
-
-# Restart
-
-# End
 
 Figure 3.2.1: Data Flow Diagram
 
