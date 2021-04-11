@@ -264,7 +264,7 @@ This chapter describes the experimental setup along with the details of the inst
 
 4.3.1 Welcome Page
 
-![image](![image](https://user-images.githubusercontent.com/48413868/114300271-0bb82700-9add-11eb-834e-9d15803ea512.png)
+![gam](![image](https://user-images.githubusercontent.com/48413868/114300271-0bb82700-9add-11eb-834e-9d15803ea512.png)
 )
 
 Figure 4.3.1: Welcome Page
