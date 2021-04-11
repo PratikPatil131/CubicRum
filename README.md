@@ -129,7 +129,7 @@ This chapter describes the design of the basic architecture of the project work,
 
 3.1 System Architecture
 
-![](![image](https://user-images.githubusercontent.com/48413868/114300246-df9ca600-9adc-11eb-80a3-c7d3f00adb5b.png)
+![image](![image](https://user-images.githubusercontent.com/48413868/114300246-df9ca600-9adc-11eb-80a3-c7d3f00adb5b.png)
 )
 
 Figure 3.1: System Architecture
@@ -264,7 +264,7 @@ This chapter describes the experimental setup along with the details of the inst
 
 4.3.1 Welcome Page
 
-![](![image](https://user-images.githubusercontent.com/48413868/114300271-0bb82700-9add-11eb-834e-9d15803ea512.png)
+![image](![image](https://user-images.githubusercontent.com/48413868/114300271-0bb82700-9add-11eb-834e-9d15803ea512.png)
 )
 
 Figure 4.3.1: Welcome Page
@@ -273,7 +273,7 @@ As shown in figure 4.3.2, the user can see the welcome page at start. By clickin
 
     1. Game Running
 
-![](RackMultipart20210220-4-19cej1b_html_48e55da185b3b26a.png)
+![image](RackMultipart20210220-4-19cej1b_html_48e55da185b3b26a.png)
 
 Figure 4.3.2: Game Running
 
@@ -287,7 +287,7 @@ Rules for the game: -
 
 4.3.3 Game Credits
 
-![](![image](https://user-images.githubusercontent.com/48413868/114300278-12df3500-9add-11eb-8804-042612880d5a.png)
+![image](![image](https://user-images.githubusercontent.com/48413868/114300278-12df3500-9add-11eb-8804-042612880d5a.png)
 )
 
 Figure 4.3.3: Game Credits &amp; Quit
