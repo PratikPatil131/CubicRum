@@ -129,8 +129,9 @@ This chapter describes the design of the basic architecture of the project work,
 
 3.1 System Architecture
 
-![image](![image](https://user-images.githubusercontent.com/48413868/114300246-df9ca600-9adc-11eb-80a3-c7d3f00adb5b.png)
-)
+![image](https://user-images.githubusercontent.com/48413868/114300371-a57fd400-9add-11eb-92d9-5adbc296f3db.png)
+
+
 
 Figure 3.1: System Architecture
 
